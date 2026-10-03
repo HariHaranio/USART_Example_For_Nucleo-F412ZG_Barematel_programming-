@@ -48,6 +48,10 @@ The USART configuration is stored in `usart3Config`. The actual peripheral clock
 
 The LED is configured by `LED1` and initialized with `GPIO_Init(GPIOB, &LED1)`.
 
+> [!IMPORTANT]
+> USART communication was tested on the STM32F412ZG using the SerialLink Communicator to transmit and receive data between the microcontroller and PC.
+>
+> [SerialLink Communicator](https://github.com/HariHaranio/Python-based-SerialLink-Communicator-UI)
 ## Expected terminal commands
 
 The source appears intended to accept these commands, followed by Enter:
