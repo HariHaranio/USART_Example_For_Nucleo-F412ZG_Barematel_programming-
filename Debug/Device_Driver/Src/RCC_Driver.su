@@ -1,0 +1,12 @@
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:8:6:RCC_EnableGPIO	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:45:6:RCC_DisableGPIO	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:80:6:RCC_Config_HSE_SystemClock	8	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:138:6:RCC_EnableSYSCFG	4	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:168:10:RCC_GetPCLK1	24	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:193:10:RCC_GetPCLK2	24	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:219:6:RCC_EnableUSART	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:235:6:RCC_DisableUSART	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:251:6:RCC_EnableI2C	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:270:6:RCC_DisableI2C	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:289:6:RCC_EnableTIM2	4	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/RCC_Driver.c:293:6:RCC_DisableTIM2	4	static

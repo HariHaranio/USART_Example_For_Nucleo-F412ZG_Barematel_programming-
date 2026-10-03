@@ -1,0 +1,10 @@
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/GPIO_Driver.c:5:6:GPIO_Init	24	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/GPIO_Driver.c:37:6:GPIO_DeInit_Pin	24	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/GPIO_Driver.c:58:6:GPIO_DeInit	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/GPIO_Driver.c:104:6:GPIO_TogglePin	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/GPIO_Driver.c:110:6:GPIO_SetPin	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/GPIO_Driver.c:116:6:GPIO_ResetPin	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/GPIO_Driver.c:121:9:GPIO_ReadPin	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/GPIO_Driver.c:127:6:GPIO_WritePort	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/GPIO_Driver.c:133:10:GPIO_ReadPort	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/GPIO_Driver.c:139:6:GPIO_Lock	16	static

@@ -1,0 +1,6 @@
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/NVIC_driver.c:4:6:NVIC_EnableIRQ	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/NVIC_driver.c:9:6:NVIC_DisableIRQ	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/NVIC_driver.c:14:6:NVIC_SetPendingIRQ	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/NVIC_driver.c:19:6:NVIC_ClearPendingIRQ	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/NVIC_driver.c:24:6:NVIC_ReadActiveIRQ	16	static
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/NVIC_driver.c:29:6:NVIC_SetIRQPriority	16	static

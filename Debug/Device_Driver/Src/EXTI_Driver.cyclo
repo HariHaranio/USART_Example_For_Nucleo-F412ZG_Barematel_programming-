@@ -1,0 +1,4 @@
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/EXTI_Driver.c:4:6:EXTI_EnableInterrupt	5
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/EXTI_Driver.c:28:6:EXTI_EnableEvent	5
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/EXTI_Driver.c:53:6:EXTI_ClearPending	1
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/EXTI_Driver.c:59:6:EXTI_IsPending	1

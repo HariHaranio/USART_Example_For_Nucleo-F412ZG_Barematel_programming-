@@ -1,0 +1,9 @@
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/USART_Driver.c:9:6:USART_Init	16
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/USART_Driver.c:140:6:USART_DeInit	2
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/USART_Driver.c:153:6:USART_Transmit	8
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/USART_Driver.c:178:6:USART_Transmit_IT	5
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/USART_Driver.c:195:6:USART_Receive	7
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/USART_Driver.c:219:6:USART_Receive_IT	6
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/USART_Driver.c:239:6:USART_Enable	3
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/USART_Driver.c:255:6:USART_Disable	3
+H:/stm32 ide location/STM32 workspace/DRIVER_F412ZG_v2/Device_Driver/Src/USART_Driver.c:270:6:USART_ConfigureGPIO	5
