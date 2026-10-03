@@ -4,7 +4,7 @@
 > 
 > Bare-metal USART3 communication example for the STM32F412ZG (NUCLEO-F412ZG), using custom peripheral drivers to receive UART commands and control an LED through GPIO. Configured for 115200 baud, 8-N-1 serial communication, with commands for LED ON and LED OFF.
 >
-> [Barematel_Driver](https://github.com/HariHaranio/STM32F412xG_bare_mate_Drivers)
+> [🔗 Barematel_Driver](https://github.com/HariHaranio/STM32F412xG_bare_mate_Drivers)
 
 # STM32F412ZG USART3 LED Command Example
 
@@ -99,10 +99,9 @@ The uploaded source currently contains logic and receive-length issues. The READ
 
 Fix and test these issues before treating the commands as working reliably.
 
-## Repository contents
-
-This README was prepared from the supplied `main.c` and `main.h`. Add the project's actual driver sources, startup files, linker script, and build instructions to the repository as appropriate. Those files were not part of the two source files reviewed here.
-
-## License
-
-No license was specified in the supplied files. Add a `LICENSE` file if you want to grant others permission to use, modify, and distribute this project.
+> [!Note]
+> USART API's are used form baremate driver
+>
+> Find the relevant Drivers and added it to the Inc & Scr file to run without any error
+>
+> [🔗 Barematel driver Link](https://github.com/HariHaranio/STM32F412xG_bare_mate_Drivers)
