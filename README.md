@@ -100,7 +100,7 @@ The uploaded source currently contains logic and receive-length issues. The READ
 Fix and test these issues before treating the commands as working reliably.
 
 > [!Note]
-> USART API's are used form baremate driver
+> USART API's are used form barematel driver
 >
 > Find the relevant Drivers and added it to the Inc & Scr file to run without any error
 >
