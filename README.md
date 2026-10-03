@@ -12,7 +12,7 @@ A bare-metal C example for the **STM32F412ZG / NUCLEO-F412ZG** that uses USART3 
 
 ## Project overview
 
-The application in `main.c`:
+The application in [`main.c`](https://github.com/HariHaranio/USART_Example_For_Nucleo-F412ZG_Barematel_programming-/blob/main/Src/main.c):
 
 1. Configures the system clock using `RCC_Config_HSE_SystemClock()`.
 2. Initializes SysTick.
